@@ -1,0 +1,21 @@
+{
+  "name": "original-player",
+  "version": "2.1.4",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "youtube",
+    "vimeo",
+    "facebook"
+  ],
+  "author": "Leonardo Prada",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vimeo/player": "^2.10.0",
+    "plyr": "^3.5.6",
+    "yt-player": "^3.4.3"
+  }
+}
